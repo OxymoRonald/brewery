@@ -12,7 +12,7 @@
 # ----------
    
    X:
-      name: Bitter Butterbeer/Butterbeer
+      name: Butterbeer
       ingredients:
       - SUGAR_CANE/4
       - EGG/3
