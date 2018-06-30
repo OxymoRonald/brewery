@@ -32,7 +32,7 @@
       ingredients:
       - WHEAT/8
       - SUGAR/4
-      - COCOA/3
+      - INK_SACK,3/3
       cookingtime: 8
       wood: 5
       age: 2
