@@ -1,12 +1,25 @@
-   11:
+   CHORUS_FRUIT: Chorus Fruit Extract
+   EGG: Eggnog
+   COCOA: Cocoa Extract
+   MAGMA_CREAM: Liquid Fire
+   GOLDEN_APPLE: Golden Applemash
+   PRISMARINE_CRYSTALS: Glow Juice
+   ENDER_PEARL: Pearl Powder
+   BLAZE_POWDER: Blaze Pulp
+   SEEDS: Barley
+   SUGAR: Sugar Water
+
+# ----------
+   
+   X:
       name: Bitter Butterbeer/Butterbeer
       ingredients:
       - SUGAR_CANE/4
       - EGG/3
       - CHORUS_FRUIT/2
-      cookingtime: 2
+      cookingtime: 13
       wood: 6
-      age: 1
+      age: 5
       color: ORANGE
       difficulty: 3
       alcohol: 28
@@ -14,3 +27,102 @@
       - REGENERATION/1/3-10
       - JUMP/1-3/30-180
       - SPEED/1-3/30-180
+
+# ----------
+   X:
+      name: Claire's Liquid Cookies
+      ingredients:
+      - SUGAR_CANE/4
+      - WHEAT/6
+      - COCOA/3
+      cookingtime: 12
+      distillruns: 1
+      distilltime: 30
+      wood: 0
+      age: 0
+      color: PINK
+      difficulty: 3
+      alcohol: 30
+      effects:
+      - HEAL/1
+      - HUNGER/1/4-12
+   X:
+      name: Neo's Night Cap
+      ingredients:
+      - GOLDEN_APPLE/1
+      - SEEDS/12
+      - WHEAT/4
+      cookingtime: 8
+      distillruns: 2
+      distilltime: 30
+      wood: 1
+      age: 4
+      color: DARK_RED
+      difficulty: 3
+      alcohol: 50
+      effects:
+      - NIGHT_VISION/1/10-60
+   X:
+      name: Lizzy's Wicked Elixer
+      ingredients:
+      - ENDER_PEARL/1
+      - LONG_GRASS/8
+      - SUGAR_CANE/4
+      cookingtime: 11
+      distillruns: 6
+      distilltime: 30
+      wood: 4
+      age: 1
+      color: GREEN
+      difficulty: 3
+      alcohol: 40
+      effects:
+      - WEAKNESS/10
+   X:
+      name: Imp's Lavaspice Rum
+      ingredients:
+      - SUGAR_CANE/12
+      - MAGMA_CREAM/1
+      cookingtime: 9
+      distillruns: 3
+      distilltime: 30
+      wood: 2
+      age: 1
+      color: BRIGHT_RED
+      difficulty: 3
+      alcohol: 30
+      effects:
+      - FIRE_RESISTANCE/1-3/20-90
+   X:
+      name: Lily's Moonglow Liqueur
+      ingredients:
+      - PRISMARINE_CRYSTALS/2
+      - SUGAR/4
+      cookingtime: 17
+      distillruns: 8
+      distilltime: 30
+      wood: 0
+      age: 0
+      color: CYAN 
+      difficulty: 3
+      alcohol: 45
+      effects:
+      - HEAL/1
+      - DAMAGE_RESISTANCE/1-3/30-180
+      - GLOWING/1/30-180
+   X:
+      name: Oxymo's Mind Eraser
+      ingredients:
+      - BLAZE_POWDER/1
+      - SEEDS/12
+      - WHEAT/4
+      cookingtime: 8
+      distillruns: 2
+      distilltime: 30
+      wood: 6
+      age: 6
+      color: ORANGE
+      difficulty: 3
+      alcohol: 60
+      effects:
+      - CONFUSION/1/10-40
