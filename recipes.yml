@@ -30,8 +30,8 @@
    X:
       name: Claire's Liquid Cookies
       ingredients:
-      - SUGAR_CANE/4
-      - WHEAT/6
+      - WHEAT/8
+      - SUGAR/4
       - COCOA/3
       cookingtime: 8
       wood: 5
