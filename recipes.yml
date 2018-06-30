@@ -42,9 +42,6 @@
       effects:
       - HEAL/1
       - HUNGER/1/4-12
-      
-# ----------
-
    X:
       name: Neo's Night Cap
       ingredients:
@@ -52,15 +49,15 @@
       - SEEDS/12
       - WHEAT/4
       cookingtime: 8
-      distillruns: 2
-      distilltime: 30
       wood: 1
       age: 4
       color: DARK_RED
       difficulty: 3
-      alcohol: 50
+      alcohol: 22
       effects:
       - NIGHT_VISION/1/10-60
+      
+# ----------
    X:
       name: Lizzy's Wicked Elixer
       ingredients:
