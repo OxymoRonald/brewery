@@ -1,0 +1,16 @@
+   11:
+      name: Bitter Butterbeer/Butterbeer
+      ingredients:
+      - SUGAR_CANE/4
+      - EGG/3
+      - CHORUS_FRUIT/2
+      cookingtime: 2
+      wood: 6
+      age: 1
+      color: ORANGE
+      difficulty: 3
+      alcohol: 28
+      effects:
+      - REGENERATION/1/3-10
+      - JUMP/1-3/30-180
+      - SPEED/1-3/30-180
