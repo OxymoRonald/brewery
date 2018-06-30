@@ -1,6 +1,6 @@
    CHORUS_FRUIT: Chorus Fruit Extract
    EGG: Eggnog
-   INK_SACK,3: Cocoa Extract
+   Cocoa Beans: Cocoa Extract
    MAGMA_CREAM: Liquid Fire
    GOLDEN_APPLE: Golden Applemash
    PRISMARINE_CRYSTALS: Glow Juice
@@ -32,7 +32,7 @@
       ingredients:
       - WHEAT/8
       - SUGAR/4
-      - INK_SACK,3/3
+      - Cocoa Beans/3
       cookingtime: 8
       wood: 5
       age: 2
