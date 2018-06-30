@@ -101,7 +101,7 @@
       - HEAL/1
       - DAMAGE_RESISTANCE/1-3/30-180
       - GLOWING/1/30-180
-   X:
+   17:
       name: Oxymo's Mind Eraser
       ingredients:
       - BLAZE_POWDER/1
